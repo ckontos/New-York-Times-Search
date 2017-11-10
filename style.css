@@ -1,0 +1,42 @@
+body {
+    margin-top: 10px;
+}
+
+.jumbotron {
+    background: #232775;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+}
+
+#searchBox {
+    margin-top: 50px;
+    width: 72%;
+
+}
+
+#resultsBox {
+    width: 100%;
+}
+
+.panel-default>.panel-heading {
+    background-color: #232775;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #232775;
+    color: white;
+}
+
+.btn-primary:hover {
+    background: white;
+    color: #232775;
+    border-width: 2px;
+}
+
+.btn-primary:active {
+    background: #232775;
+    color: white;
+}
